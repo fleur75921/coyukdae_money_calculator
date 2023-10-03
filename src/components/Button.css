@@ -1,0 +1,11 @@
+.Plane {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Num {
+    font: 2em Arial;
+    color: white;
+}
